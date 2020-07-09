@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 1.7.228
+{:name lt-manager.dev, :doc nil, :excludes #{}, :use-macros nil, :require-macros nil, :uses nil, :requires {core lt-manager.core, lt-manager.core lt-manager.core}, :imports nil}
